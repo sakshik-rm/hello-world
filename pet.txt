@@ -1,1 +1,2 @@
-My pet is a bird
+<<<<<<< HEAD
+My pet is a mouse
