@@ -1,5 +1,1 @@
-<<<<<<< .merge_file_Yju8aG
-My pet is a cat
-=======
-My pet is a doggo
->>>>>>> .merge_file_qHE74c
+My pet is a dog
